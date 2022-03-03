@@ -1,1 +1,1 @@
-my readme
+show directory path
